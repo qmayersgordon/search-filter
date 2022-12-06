@@ -1,0 +1,24 @@
+body{
+    background-color: beige;
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+   justify-content: center;
+    height: 100vh;
+}
+
+.form-group{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    width: 60vw;
+    
+}
+ #search{
+    margin-bottom: 20px;
+ }
+
+ li:hover{
+    font-weight: bold;
+ }
+
